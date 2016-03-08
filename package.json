@@ -1,0 +1,29 @@
+{
+  "name": "cause-multi-threshold",
+  "version": "0.0.0",
+  "description": "checks if a value has crossed the boundry of an interval",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "freder.code@gmail.com",
+  "dependencies": {
+    "sf": "^0.1.8",
+    "versus": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-multi-threshold.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "threshold"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-multi-threshold/issues"
+  },
+  "homepage": "https://github.com/freder/cause-multi-threshold"
+}
