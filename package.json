@@ -1,6 +1,6 @@
 {
   "name": "cause-multi-threshold",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "checks if a value has crossed the boundry of an interval",
   "main": "index.js",
   "license": "CC-BY-NC-SA-4.0",
